@@ -1,9 +1,9 @@
-183
+184
 57C:\Users\86188\Desktop\jirengu666\mvc-demo-1\package.json132798030948636873 0
 77C:\Users\86188\Desktop\jirengu666\mvc-demo-1\node_modules\jquery\package.json132798030939410000 0
-55C:\Users\86188\Desktop\jirengu666\mvc-demo-1\.gitignore132798775221612299 0
-50C:\Users\86188\Desktop\jirengu666\mvc-demo-1\.idea132798772453207554 1
-49C:\Users\86188\Desktop\jirengu666\mvc-demo-1\dist132798640260923004 1
+55C:\Users\86188\Desktop\jirengu666\mvc-demo-1\.gitignore132798776650631598 0
+50C:\Users\86188\Desktop\jirengu666\mvc-demo-1\.idea132798776369637255 1
+49C:\Users\86188\Desktop\jirengu666\mvc-demo-1\dist132798783886822297 1
 73C:\Users\86188\Desktop\jirengu666\mvc-demo-1\node_modules\jquery\src\ajax132798030948160978 1
 57C:\Users\86188\Desktop\jirengu666\mvc-demo-1\src\app2.css132798632497563901 0
 48C:\Users\86188\Desktop\jirengu666\mvc-demo-1\src132798640259824320 1
@@ -25,7 +25,7 @@
 71C:\Users\86188\Desktop\jirengu666\mvc-demo-1\dist\index.fef1cfaf.js.map132797960189728227 0
 56C:\Users\86188\Desktop\jirengu666\mvc-demo-1\src\app3.js132798620839779754 0
 81C:\Users\86188\Desktop\jirengu666\mvc-demo-1\node_modules\jquery\src\core\init.js132798030939410000 0
-57C:\Users\86188\Desktop\jirengu666\mvc-demo-1\src\app4.css132798640259783904 0
+57C:\Users\86188\Desktop\jirengu666\mvc-demo-1\src\app4.css132798783885866527 0
 56C:\Users\86188\Desktop\jirengu666\mvc-demo-1\src\app4.js132798640011231170 0
 59C:\Users\86188\Desktop\jirengu666\mvc-demo-1\src\global.css132798632497284690 0
 75C:\Users\86188\Desktop\jirengu666\mvc-demo-1\node_modules\jquery\bower.json132798030939410000 0
@@ -173,12 +173,13 @@
 84C:\Users\86188\Desktop\jirengu666\mvc-demo-1\node_modules\jquery\dist\jquery.slim.js132798030939410000 0
 89C:\Users\86188\Desktop\jirengu666\mvc-demo-1\node_modules\jquery\dist\jquery.slim.min.map132798030939410000 0
 67C:\Users\86188\Desktop\jirengu666\mvc-demo-1\dist\index.147655b4.js132798640012907327 0
-68C:\Users\86188\Desktop\jirengu666\mvc-demo-1\dist\index.5a4a2a84.css132798640260873158 0
-72C:\Users\86188\Desktop\jirengu666\mvc-demo-1\dist\index.5a4a2a84.css.map132798640260903095 0
+68C:\Users\86188\Desktop\jirengu666\mvc-demo-1\dist\index.5a4a2a84.css132798783886802346 0
+72C:\Users\86188\Desktop\jirengu666\mvc-demo-1\dist\index.5a4a2a84.css.map132798783886812321 0
 68C:\Users\86188\Desktop\jirengu666\mvc-demo-1\dist\index.eeffbd16.css132798031320111465 0
 67C:\Users\86188\Desktop\jirengu666\mvc-demo-1\dist\index.fef1cfaf.js132797960189678343 0
 60C:\Users\86188\Desktop\jirengu666\mvc-demo-1\dist\index.html132798634772060120 0
 61C:\Users\86188\Desktop\jirengu666\mvc-demo-1\.idea\.gitignore132797957938467682 0
 62C:\Users\86188\Desktop\jirengu666\mvc-demo-1\.idea\modules.xml132797957905912008 0
 65C:\Users\86188\Desktop\jirengu666\mvc-demo-1\.idea\mvc-demo-1.iml132797957905648617 0
-64C:\Users\86188\Desktop\jirengu666\mvc-demo-1\.idea\workspace.xml132798772453207185 0
+58C:\Users\86188\Desktop\jirengu666\mvc-demo-1\.idea\vcs.xml132798776369627280 0
+64C:\Users\86188\Desktop\jirengu666\mvc-demo-1\.idea\workspace.xml132798776369399617 0
