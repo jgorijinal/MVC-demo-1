@@ -1,0 +1,14 @@
+#app1 {
+    border: 1px solid red;
+    width:50vw;
+    height:50vh;
+}
+#app1 .output{}
+#app1 .actions{}
+#app1 .actions button{}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/*# sourceMappingURL=index.eeffbd16.css.map */
